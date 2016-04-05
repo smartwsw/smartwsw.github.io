@@ -223,7 +223,7 @@ img {
 	line-height: 2.181818182;
 	font-weight: bold;
 	text-transform: uppercase;
-	color: rgb(81, 165, 168); /* Widget Title */
+	color: #669999; /* Widget Title */
 }
 
 /* Shared Post Format styling */
@@ -324,7 +324,7 @@ button:active,
 input[type="submit"]:active,
 input[type="button"]:active,
 input[type="reset"]:active {
-	color: #757575;
+	color: #669999;
 	background-color: #e1e1e1;
 	background-repeat: repeat-x;
 	background-image: -moz-linear-gradient(top, #ebebeb, #e1e1e1);
@@ -408,7 +408,7 @@ img.wp-post-image {
 	font-size: 12px;
 	font-size: 0.857142857rem;
 	line-height: 2;
-	color: #757575;
+	color: #669999;
 }
 img.wp-smiley,
 .rsswidget img {
@@ -543,7 +543,7 @@ img.wp-smiley,
 	overflow: hidden;
 }
 .author-description p {
-	color: #757575;
+	color: #669999;
 	font-size: 13px;
 	font-size: 0.928571429rem;
 	line-height: 1.846153846;
@@ -578,7 +578,7 @@ body.custom-font-enabled {
 }
 a {
 	outline: none;
-	color: rgb(81, 165, 168); /*Article Title Normal*/
+	color: #669999; /*Article Title Normal*/
     text-decoration: none;
 }
 a:hover {
@@ -607,7 +607,7 @@ a:hover {
 
 /* Achive */
 .archive-year-wrap {
-    color: rgb(81, 165, 168);
+    color: #669999;
     font-weight: normal;
     margin-bottom: 30px;
     text-shadow: 0 0 1px #fff;
@@ -641,7 +641,7 @@ a:hover {
 .site {
 	padding: 0 24px;
 	padding: 0 1.714285714rem;
-	background-color: rgba(255, 255, 255, 0.20); /* Main Page */
+	background-color: rgba(255, 255, 255, 0.25); /* Main Page */
 }
 .site-content {
 	margin: 24px 0 0;
@@ -664,7 +664,7 @@ a:hover {
 
 .site-header h1 a,
 .site-header h2 a {
-	color: #515151;
+	color: #ABCDEF;
 	display: inline-block;
 	text-decoration: none;
 }
@@ -684,7 +684,7 @@ a:hover {
 	font-size: 13px;
 	font-size: 0.928571429rem;
 	line-height: 1.846153846;
-	color: #757575;
+	color: #669999;
 }
 .header-image {
 	margin-top: 24px;
@@ -762,7 +762,7 @@ section[role="banner"] {
 	color: rgb(0, 0, 0); /* Widget Link Normal*/
 }
 .widget-area .widget a:hover {
-	color: rgb(81, 165, 168); /* Widget Link Hover*/
+	color: #669999; /* Widget Link Hover*/
 }
 
 }
@@ -787,7 +787,7 @@ footer[role="contentinfo"] {
 	padding: 1.714285714rem 0;
 }
 footer[role="contentinfo"] a {
-	color: #686868;
+	color: #669999;
 }
 footer[role="contentinfo"] a:hover {
 	color: #21759b;
@@ -850,22 +850,22 @@ footer[role="contentinfo"] a:hover {
 	font-size: 13px;
 	font-size: 0.928571429rem;
 	line-height: 1.846153846;
-	color: #757575;
+	color: #669999;
 }
 .comments-link a,
 .entry-meta a {
-	color: rgb(88, 88, 88); /*Article Meta Link Normal*/
+	color: #66CCCC; /*Article Meta Link Normal*/
 }
 .comments-link a:hover,
 .entry-meta a:hover {
-	color: rgb(81, 165, 168); /*Article Meta Link Hover*/
+	color: #669999; /*Article Meta Link Hover*/
 }
 
 article.sticky .featured-post {
     /* Border Line for Special */
 	border-top: 1px solid rgba(0, 0, 0, 0.24);
 	border-bottom: 1px solid rgba(0, 0, 0, 0.24);
-	color: #757575;
+	color: #669999;
 	font-size: 13px;
 	font-size: 0.928571429rem;
 	line-height: 3.692307692;
@@ -942,7 +942,7 @@ article.sticky .featured-post {
 
 .entry-content a,
 .comment-content a {
-	color: rgb(81, 165, 168); /* Link in Article Content Normal */
+	color: #669999; /* Link in Article Content Normal */
 }
 
 .entry-content a:Hover,
@@ -1089,7 +1089,7 @@ img.aligncenter,
 .entry-content table,
 .comment-content table {
 	border-bottom: 1px solid #ededed;
-	color: #757575;
+	color: #669999;
 	font-size: 12px;
 	font-size: 0.857142857rem;
 	line-height: 2;
@@ -1131,13 +1131,13 @@ footer.entry-meta {
 	font-size: 13px;
 	font-size: 0.928571429rem;
 	line-height: 1.846153846;
-	color: #757575; /* Article Meta */
+	color: #669999; /* Article Meta */
 }
 .single-author .entry-meta .by-author {
 	display: none;
 }
 .mu_register h2 {
-	color: #757575;
+	color: #669999;
 	font-weight: normal;
 }
 
@@ -1206,7 +1206,7 @@ figure.highlight .line {
 	border-bottom: 1px solid #ededed;
 }
 .archive-meta {
-	color: #757575;
+	color: #669999;
 	font-size: 12px;
 	font-size: 0.857142857rem;
 	line-height: 2;
@@ -1331,7 +1331,7 @@ article.format-quote .entry-content blockquote {
 	font-size: 1.071428571rem;
 	line-height: 1.6;
 	font-style: normal;
-	color: #6a6a6a;
+	color: #669999;
 	background: #efefef;
 }
 
@@ -1358,7 +1358,7 @@ article.format-quote .entry-content blockquote {
 	margin: 0;
 }
 .format-status .entry-header header a {
-	color: #757575;
+	color: #669999;
 }
 .format-status .entry-header header a:hover {
 	color: #21759b;
@@ -1565,7 +1565,7 @@ a.comment-edit-link:hover {
 	list-style-position: inside;
 }
 .template-front-page .widget-area .widget li a {
-	color: #757575;
+	color: #669999;
 }
 .template-front-page .widget-area .widget li a:hover {
 	color: #21759b;
@@ -1720,7 +1720,7 @@ img#wpstats {
 	}
 	.main-navigation li a {
 		border-bottom: 0;
-		color: #6a6a6a;
+		color: #669999;
 		line-height: 3.692307692;
 		text-transform: uppercase;
 		white-space: nowrap;
